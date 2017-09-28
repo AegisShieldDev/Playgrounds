@@ -5,8 +5,6 @@ import UIKit
 var changingString :String = "Hello!"
 var mergeOne = "Black"
 var mergeTwo = "White"
-var thisName :String = "thor"
-
 changingString = "Hello is now Goodbye!"
 var mergeThree = mergeOne + mergeTwo + " are now merged"
 let countingString = "Count me! Count me now!"
